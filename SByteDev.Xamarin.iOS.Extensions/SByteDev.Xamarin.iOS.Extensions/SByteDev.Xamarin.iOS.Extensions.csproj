@@ -1,0 +1,18 @@
+﻿<Project Sdk="MSBuild.Sdk.Extras/2.0.29">
+
+  <PropertyGroup>
+    <TargetFrameworks>Xamarin.iOS10</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>SByteDev.Xamarin.iOS.Extensions</PackageId>
+    <Title>Xamarin.iOS Extensions</Title>
+    <Authors>Denys Fiediaiev</Authors>
+    <Description>A collection of extensions for Xamarin.iOS.</Description>
+    <Copyright>Denys Fiediaiev</Copyright>
+    <PackageTags>xamarin, xamarin.ios, extensions</PackageTags>
+    <PackageProjectUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions</RepositoryUrl>
+    <PackageVersion>1.0.1</PackageVersion>
+  </PropertyGroup>
+
+</Project>

@@ -1,7 +1,7 @@
 ﻿using System;
 using Foundation;
 
-namespace SByte.Xamarin.iOS.Extensions
+namespace SByteDev.Xamarin.iOS.Extensions
 {
     public static class NsObjectExtensions
     {
