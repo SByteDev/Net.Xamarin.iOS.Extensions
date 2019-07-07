@@ -12,7 +12,7 @@
     <PackageProjectUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions</RepositoryUrl>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
   </PropertyGroup>
 
 </Project>
