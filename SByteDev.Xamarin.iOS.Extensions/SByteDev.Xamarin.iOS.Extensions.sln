@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SByteDev.Xamarin.iOS.Extensions", "SByteDev.Xamarin.iOS.Extensions\SByteDev.Xamarin.iOS.Extensions.csproj", "{D38A4AA9-E153-412C-B463-DEA87967B278}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SByteDev.Xamarin.iOS.Extensions.Tests", "SByteDev.Xamarin.iOS.Extensions.Tests\SByteDev.Xamarin.iOS.Extensions.Tests.csproj", "{146C63DE-B5E0-4873-9AA5-B302E7E5A35B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D38A4AA9-E153-412C-B463-DEA87967B278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D38A4AA9-E153-412C-B463-DEA87967B278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D38A4AA9-E153-412C-B463-DEA87967B278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146C63DE-B5E0-4873-9AA5-B302E7E5A35B}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{146C63DE-B5E0-4873-9AA5-B302E7E5A35B}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{146C63DE-B5E0-4873-9AA5-B302E7E5A35B}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{146C63DE-B5E0-4873-9AA5-B302E7E5A35B}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
