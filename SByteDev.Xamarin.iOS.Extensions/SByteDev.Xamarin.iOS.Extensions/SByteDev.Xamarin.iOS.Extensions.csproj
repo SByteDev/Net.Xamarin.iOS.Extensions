@@ -9,10 +9,11 @@
     <Description>A collection of extensions for Xamarin.iOS.</Description>
     <Copyright>Denys Fiediaiev</Copyright>
     <PackageTags>xamarin, xamarin.ios, extensions</PackageTags>
-    <PackageProjectUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions/blob/master/LICENSE</PackageLicenseUrl>
-    <RepositoryUrl>https://github.com/SByteDev/DotNet.Xamarin.iOS.Extensions</RepositoryUrl>
-    <PackageVersion>1.0.2</PackageVersion>
+    <PackageProjectUrl>https://github.com/SByteDev/Net.Xamarin.iOS.Extensions</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/SByteDev/Net.Xamarin.iOS.Extensions/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/SByteDev/Net.Xamarin.iOS.Extensions</RepositoryUrl>
+    <PackageVersion>1.0.3</PackageVersion>
+    <PackageReleaseNotes>UIColor extension added.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
