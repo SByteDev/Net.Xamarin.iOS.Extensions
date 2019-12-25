@@ -1,19 +1,24 @@
-﻿<Project Sdk="MSBuild.Sdk.Extras/2.0.29">
+﻿<Project Sdk="MSBuild.Sdk.Extras/2.0.54">
 
   <PropertyGroup>
-    <TargetFrameworks>Xamarin.iOS10</TargetFrameworks>
+    <TargetFramework>Xamarin.iOS10</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>SByteDev.Xamarin.iOS.Extensions</PackageId>
+    <PackageVersion>1.0.4</PackageVersion>
     <Title>Xamarin.iOS Extensions</Title>
-    <Authors>Denys Fiediaiev</Authors>
     <Description>A collection of extensions for Xamarin.iOS.</Description>
-    <Copyright>Denys Fiediaiev</Copyright>
+    <Copyright>SByteDev</Copyright>
+    <Authors>Prin53, SByteDev</Authors>
+    <Owners>Prin53, SByteDev</Owners>
+    <NeutralLanguage>en</NeutralLanguage>
     <PackageTags>xamarin, xamarin.ios, extensions</PackageTags>
+    <PackageIconUrl>https://i.imgur.com/DtkfyPTm.jpg</PackageIconUrl>
     <PackageProjectUrl>https://github.com/SByteDev/Net.Xamarin.iOS.Extensions</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/SByteDev/Net.Xamarin.iOS.Extensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/SByteDev/Net.Xamarin.iOS.Extensions</RepositoryUrl>
-    <PackageVersion>1.0.3</PackageVersion>
-    <PackageReleaseNotes>UIColor extension added.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
