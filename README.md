@@ -1,8 +1,8 @@
 # Extensions for Xamarin.iOS
 ![GitHub](https://img.shields.io/github/license/SByteDev/Net.Xamarin.iOS.Extensions.svg)
 ![Nuget](https://img.shields.io/nuget/v/SByteDev.Xamarin.iOS.Extensions.svg)
-[![Build Status](https://img.shields.io/bitrise/40bc65fa6cbbbe67/develop?label=development&token=nb5ptlUig_ZdZ7u0l6BmIQ&branch)](https://app.bitrise.io/app/40bc65fa6cbbbe67)
-[![Build Status](https://img.shields.io/bitrise/40bc65fa6cbbbe67/master?label=production&token=nb5ptlUig_ZdZ7u0l6BmIQ&branch)](https://app.bitrise.io/app/40bc65fa6cbbbe67)
+[![CI](https://github.com/SByteDev/Net.Xamarin.iOS.Extensions/actions/workflows/ci.yml/badge.svg)](https://github.com/SByteDev/Net.Xamarin.iOS.Extensions/actions/workflows/ci.yml)
+[![CD](https://github.com/SByteDev/Net.Xamarin.iOS.Extensions/actions/workflows/cd.yml/badge.svg)](https://github.com/SByteDev/Net.Xamarin.iOS.Extensions/actions/workflows/cd.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/sbytedev/net.xamarin.ios.extensions/badge)](https://www.codefactor.io/repository/github/sbytedev/net.xamarin.ios.extensions)
 
 Extensions is a .Net Standard library with common iOS extensions and helpers written for Xamarin.
