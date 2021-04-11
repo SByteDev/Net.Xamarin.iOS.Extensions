@@ -4,7 +4,7 @@
     <TargetFramework>Xamarin.iOS10</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>SByteDev.Xamarin.iOS.Extensions</PackageId>
-    <PackageVersion>1.0.4</PackageVersion>
+    <PackageVersion>1.0.5</PackageVersion>
     <Title>Xamarin.iOS Extensions</Title>
     <Description>A collection of extensions for Xamarin.iOS.</Description>
     <Copyright>SByteDev</Copyright>
